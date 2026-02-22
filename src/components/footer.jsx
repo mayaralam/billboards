@@ -13,7 +13,7 @@ export default function Footer() {
           </ul>
         </div>
         <div>
-          <h3 className="text-lg font-bold mb-3 dark:text-gray-400 text-gray-600">
+          <h3 className="text-lg font-bold mb-3 dark:text-gray-300 text-gray-600">
             الخدمات
           </h3>
           <ul className="space-y-2 dark:text-gray-300 text-gray-600 text-sm">
